@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\fbt\\PRU\\gameproject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28696BAE-C95F-731B-D432-E653723BFA94}|Assembly-CSharp.csproj|d:\\fbt\\pru\\gameproject\\assets\\scripts\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28696BAE-C95F-731B-D432-E653723BFA94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28696BAE-C95F-731B-D432-E653723BFA94}|Assembly-CSharp.csproj|d:\\fbt\\pru\\gameproject\\assets\\scripts\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28696BAE-C95F-731B-D432-E653723BFA94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28696BAE-C95F-731B-D432-E653723BFA94}|Assembly-CSharp.csproj|d:\\fbt\\pru\\gameproject\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28696BAE-C95F-731B-D432-E653723BFA94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28696BAE-C95F-731B-D432-E653723BFA94}|Assembly-CSharp.csproj|d:\\fbt\\pru\\gameproject\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28696BAE-C95F-731B-D432-E653723BFA94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BossEnemy.cs",
+              "DocumentMoniker": "D:\\fbt\\PRU\\gameproject\\Assets\\Scripts\\BossEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossEnemy.cs",
+              "ToolTip": "D:\\fbt\\PRU\\gameproject\\Assets\\Scripts\\BossEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:06:19.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\fbt\\PRU\\gameproject\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\fbt\\PRU\\gameproject\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:06:14.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "D:\\fbt\\PRU\\gameproject\\Assets\\Scripts\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BasicEnemy.cs",
+              "ToolTip": "D:\\fbt\\PRU\\gameproject\\Assets\\Scripts\\BasicEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BasicEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:05:10.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "D:\\fbt\\PRU\\gameproject\\Assets\\Scripts\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
               "ToolTip": "D:\\fbt\\PRU\\gameproject\\Assets\\Scripts\\AudioManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T17:03:18.484Z",
               "EditorCaption": ""
