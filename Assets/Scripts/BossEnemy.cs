@@ -1,3 +1,4 @@
+using System.Numerics;
 using UnityEngine;
 
 public class BossEnemy : Enemy
@@ -25,7 +26,7 @@ public class BossEnemy : Enemy
     {
         Instantiate(usbPrefaps, transform.position, Quaternion.identity);
         base.Die();
-        
+
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
