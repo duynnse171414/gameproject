@@ -27,9 +27,9 @@ public class AudioManager : MonoBehaviour
     }
     public void PlayBossAudio()
     {
+       
         defaultAudioSource.Stop();
         bossAudioSource.Play();
-
     }
     public void StopAudioGame()
     {
